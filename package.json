@@ -1,0 +1,26 @@
+{
+  "name": "dbhub",
+  "version": "1.0.0",
+  "description": "Use Github as a mini-database",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaxifakl/DBhub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaxifakl/DBhub/issues"
+  },
+  "homepage": "https://github.com/kaxifakl/DBhub#readme",
+  "dependencies": {
+    "@octokit/core": "^4.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.6"
+  }
+}
