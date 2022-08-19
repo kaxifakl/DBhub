@@ -1,8 +1,8 @@
 {
-  "name": "dbhub",
+  "name": "@movingcastle/dbhub",
   "version": "1.0.0",
   "description": "Use Github as a mini-database",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/kaxifakl/DBhub.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "kaxifakl",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kaxifakl/DBhub/issues"
@@ -22,5 +22,10 @@
   },
   "devDependencies": {
     "@types/node": "^18.7.6"
-  }
+  },
+  "files": [
+    "index.d.ts",
+    "index.js"
+  ],
+  "types": "./index.d.ts"
 }
