@@ -1,6 +1,6 @@
 {
   "name": "@movingcastle/dbhub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use Github as a mini-database",
   "main": "index.js",
   "scripts": {
